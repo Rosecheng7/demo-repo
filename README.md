@@ -1,3 +1,3 @@
 
 -# demo-repo
-- Hi! This is Rose Cheng.
+- Hi! Welcome to Rose's repository.
